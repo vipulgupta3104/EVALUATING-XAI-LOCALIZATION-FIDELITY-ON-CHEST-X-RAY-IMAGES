@@ -1,8 +1,4 @@
 # EVALUATING-XAI-LOCALIZATION-FIDELITY-ON-CHEST-X-RAY-IMAGES
-Benchmarking XAI for Chest X-ray diagnosis under Indian healthcare regulations. This project compares Grad-CAM and LIME for localization on ConvNeXt using the COVID-Qu-Ex dataset. Results show LIME consistently outperforms Grad-CAM with precise, clinically meaningful infection masks.
-
-# Evaluating XAI Localization Fidelity on Chest X-Ray Images
-
 This project evaluates the **localization fidelity of Explainable AI (XAI) techniques** applied to deep learning models for chest X-ray image classification. The objective is to analyze how accurately different XAI methods highlight infected regions and improve interpretability in medical imaging systems.
 
 ## 📌 Project Overview

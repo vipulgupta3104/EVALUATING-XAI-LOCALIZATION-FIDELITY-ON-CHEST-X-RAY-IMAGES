@@ -29,7 +29,7 @@ This project evaluates the **localization fidelity of Explainable AI (XAI) techn
   https://aimi.stanford.edu/datasets/chexpert-chest-x-rays  
   https://www.kaggle.com/datasets/ashery/chexpert  
 
-These datasets provide chest X-ray images along with **ground-truth infection segmentation masks**, enabling quantitative evaluation of XAI localization performance.
+These datasets provide chest X-ray images along with **ground-truth infection segmentation masks**, enabling quantitative evaluation of XAI localization performance. To use these datasets, code is also provided in their respective folders in order to preprocess and get guidance over their usage.
 
 ## 🔍 Key Features
 
